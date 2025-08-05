@@ -6,8 +6,8 @@ A modern and responsive personal portfolio website to showcase Devendra Kumar's 
 
 ## Click Or Hover mouse to get
 
-![PojectAsReadable](./Project.jpeg)
-![ServiceAsReadable](./Service.jpeg)
+![PojectAsReadable]("./Project.jpeg")
+![ServiceAsReadable]("./Service.jpeg")
 
 ## 📁 Project Structure
 
