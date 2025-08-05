@@ -2,7 +2,7 @@
 A modern and responsive personal portfolio website to showcase Devendra Kumar's skills, projects, and services. Built using HTML, CSS, and JavaScript, the site is optimized for all devices and features engaging animations, smooth scrolling, and dynamic typing effects.
 
 ## 🌐 Live Demo
-🔗 ![Visit](google)
+🔗 [Visit](google)
 
 ## 📁 Project Structure
 
